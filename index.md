@@ -56,7 +56,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 </div>
 {% endunless %}
 {% endif %}
-
+<h2> Registration CLOSED <h2> We've already hit capacity for registration. We're sorry we cannot accomodate you for this workshop. Please keep on eye on https://ucsbcarpentry.github.io/ or sign up for our email list at https://groups.google.com/a/library.ucsb.edu/forum/#!forum/carpentry to be alerted first when we open registration for our workshops. 
 {% comment %}
 EVENTBRITE
 
