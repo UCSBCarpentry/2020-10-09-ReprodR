@@ -155,11 +155,12 @@ one to store the analysis scripts.
 > either create a shortcut or use the `mklink` command from the windows terminal.
 {: .callout}
 
-### Save the data in the data directory
+### Saving data in the data directory
 
-Now we have a good directory structure we will now place/save the data file in the `data/` directory.
+Now we have a good directory structure we will now place/save the data file in the `data/` directory. This is where your files for the workshop will be saved.
 
-> ## Challenge 3
+> ### Workshop Data Files
+>
 > Download the gapminder data from [here](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv).
 >
 > 1. Download the file (CTRL + S, right mouse click -> "Save as", or File -> "Save page as")
@@ -167,7 +168,7 @@ Now we have a good directory structure we will now place/save the data file in t
 > 3. Save the file in the `data/` folder within your project.
 >
 > We will load and inspect these data later.
-{: .challenge}
+{: .keypoints}
 
 > ## Challenge 4
 > It is useful to get some general idea about the dataset, directly from the
