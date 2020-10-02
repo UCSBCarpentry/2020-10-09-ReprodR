@@ -157,8 +157,8 @@ one to store the analysis scripts.
 
 ### Saving data in the data directory
 
-Now we have a good directory structure we will now place/save the data file in the `data/` directory. <strong>This is where your files for the workshop will be 
-saved.</strong>
+Now we have a good directory structure we will now place/save the data file in the `data/` directory. **This is where your files for the workshop will be 
+saved.**
 
 > ## Challenge 3 - Workshop Data Files
 >
