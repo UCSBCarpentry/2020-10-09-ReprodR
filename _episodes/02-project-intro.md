@@ -159,7 +159,7 @@ one to store the analysis scripts.
 
 Now we have a good directory structure we will now place/save the data file in the `data/` directory. This is where your files for the workshop will be saved.
 
-> ## Workshop Data Files
+> ## Challenge 3 - Workshop Data Files
 >
 > Download the gapminder data from [here](https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv).
 >
