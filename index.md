@@ -359,6 +359,27 @@ please preview your site before committing, and make sure to run
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
+
+<p>
+  This lesson assumes you have R and RStudio installed on your computer.
+  <br>
+  The latest version of R can be downloaded <a href= "https://cran.r-project.org/mirrors.html"><b>here</b></a>.
+</p>
+<p>
+  RStudio is an application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features.
+  It can be downloaded <a href= "https://www.rstudio.com/products/rstudio/download/"><b>here</b></a>. 
+<br>
+  You will need the free Desktop version for your computer.
+</p>
+<p>
+  Download the gapminder data from <a href= 
+  "https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv"><b>here</b></a>
+<br>
+  <li>1. Download the file (CTRL + S, right mouse click -> "Save as", or File -> "Save page as")</li>
+  <li>2. Make sure it's saved under the name `gapminder_data.csv`</li>
+  <li>3. Save the file in the `data/` folder within your project.</li>
+</p>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
