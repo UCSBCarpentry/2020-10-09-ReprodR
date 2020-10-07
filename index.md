@@ -377,7 +377,6 @@ please preview your site before committing, and make sure to run
 <br>
   <li>1. Download the file (CTRL + S, right mouse click -> "Save as", or File -> "Save page as")</li>
   <li>2. Make sure it's saved under the name `gapminder_data.csv`</li>
-  <li>3. Save the file in the `data/` folder within your project.</li>
 </p>
 
 <p>
