@@ -734,7 +734,7 @@ x[! names(x) %in% c("a","c") ]
 > ~~~
 > seAsia <- c("Myanmar","Thailand","Cambodia","Vietnam","Laos")
 > ## read in the gapminder data that we downloaded in episode 2
-> gapminder <- read.csv("data/gapminder_data.csv", header=TRUE)
+> gapminder <- read.csv("data/gapminder_data.csv", header=TRUE, stringsAsFactors=TRUE)
 > ## extract the `country` column from a data frame (we'll see this later);
 > ## convert from a factor to a character;
 > ## and get just the non-repeated elements
